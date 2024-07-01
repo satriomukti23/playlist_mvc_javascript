@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Lagu Favorit",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Hello",
+            "duration": 195,
+            "genre": "Pop"
+         },
+         {
+            "id": 2,
+            "name": "Are You OK ?",
+            "duration": 180,
+            "genre": "Pop"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Top Song",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Helmonime",
+            "duration": 130,
+            "genre": "Rock"
+         }
+      ]
+   }
+]
